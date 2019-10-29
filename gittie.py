@@ -3,3 +3,10 @@ def introduce():
 
 
 introduce()
+
+
+def joke():
+    print("What kind of music is a balloon scared of? Pop music.")
+
+
+joke()
