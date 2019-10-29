@@ -17,3 +17,10 @@ def joke():
 
 
 joke()
+
+
+def shout():
+    print("YEET")
+
+
+shout()
