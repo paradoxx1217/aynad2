@@ -6,7 +6,7 @@ add(6, 2)
 
 
 def introduce():
-    print("Hello, I'm aynad")
+    print("Hello, I'm Gittie! lelelelel")
 
 
 introduce()
